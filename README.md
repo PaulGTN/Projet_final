@@ -2,6 +2,9 @@
 
 Plate-forme de partage/d'échange de conseils et de bonnes adresses pour améliorer son impact environnemental et sa manière de consommer.
 
+![alt text][leaf]
+[leaf]: https://images.pexels.com/photos/1048033/pexels-photo-1048033.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+
 ### Objectifs :
 
 **Quoi**
@@ -59,7 +62,7 @@ Ca partirait sur :
 
 C'était les grandes lignes, y'a encore beaucoup é peaufiner ce n'était qu'un premier jet.
 
-###Pourquoi rejoindre ce projet :
+### Pourquoi rejoindre ce projet :
 
 Grande question. Tu as envie de faire un pinterest de l'écolo ? Bah alors viens. Je veux juste préciser que ce projet n'a pas vocation à aller plus loin que THP, aprés rien n'est impossible mais devoir trouver des annonceurs ou des partenariats pour pouvoir générer de l'argent est quelque chose qui ne me tente absolument pas du tout.  Ici, il sera seulement question de mettre en pratique tout ce que l'on a vu durant la formation et de rendre un projet le plus propre possible. Et évidemment si tu as des questions, des idées, je suis preneur. 
 
