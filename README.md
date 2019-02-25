@@ -2,20 +2,19 @@
 
 Plate-forme de partage/d'échange de conseils et de bonnes adresses pour améliorer son impact environnemental et sa manière de consommer.
 
-![alt text][leaf]
-<img src="https://images.pexels.com/photos/1048033/pexels-photo-1048033.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
+<img src="https://images.pexels.com/photos/106150/dewdrop-morning-sun-mirror-blade-of-grass-106150.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260>
 
 ### Objectifs :
 
 **Quoi**
-- créer une plate-forme simple pour partager, rechercher tout types de conseils
+- [ ] Créer une plate-forme simple pour partager, rechercher tout types de conseils
 
 **Pour qui**
-- tous types d'utilisateurs cherchant à réduire facilement son impact personnel sur l'environnement
+- Tous types d'utilisateurs cherchant à réduire facilement son impact personnel sur l'environnement
 
 **Pourquoi**
-- déjà ce n'est pas une idée originale (c'est mon 4e essai et impossible de trouver quelque chose qui n'a pas encore été fait, foutu internet)
-- ensuite face au mode de consommation actuelle, arrosé par le plastique et autres produits étranges, il semble bien difficile de pouvoir réduire son impact sur l'environnement. Toutefois il existe des millions d'astuces trouvables sur internet sur ce sujet. Alors pourquoi faire un enième site me direz-vous ? Et bien parce que 90% (chiffre complètement inventé mais qui me semble pas loin de la réalité) de ces astuces se trouvent dispatché sur des tonnes de site, souvent en mode top 10 sur un blog fixe. Vous cherchez une astuce en particulier ? Préparez vous é devoir vous baladez sur des dizaines de pages et de sites différents pour trouver la bonne ? Vous avec une problématique sur un sujet précis ? Priez pour que le site posséde un espace avec des commentaires et quelqu'un viennent vous répondre dans un délai raisonnable. 
+- [ ] Déjà ce n'est pas une idée originale (c'est mon 4e essai et impossible de trouver quelque chose qui n'a pas encore été fait, foutu internet)
+- [ ] Ensuite face au mode de consommation actuelle, arrosé par le plastique et autres produits étranges, il semble bien difficile de pouvoir réduire son impact sur l'environnement. Toutefois il existe des millions d'astuces trouvables sur internet sur ce sujet. Alors pourquoi faire un enième site me direz-vous ? Et bien parce que 90% (chiffre complètement inventé mais qui me semble pas loin de la réalité) de ces astuces se trouvent dispatché sur des tonnes de site, souvent en mode top 10 sur un blog fixe. Vous cherchez une astuce en particulier ? Préparez vous é devoir vous baladez sur des dizaines de pages et de sites différents pour trouver la bonne ? Vous avec une problématique sur un sujet précis ? Priez pour que le site posséde un espace avec des commentaires et quelqu'un viennent vous répondre dans un délai raisonnable. 
 
 ### Ici rien de tout ça :
 
