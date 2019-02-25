@@ -3,7 +3,7 @@
 Plate-forme de partage/d'échange de conseils et de bonnes adresses pour améliorer son impact environnemental et sa manière de consommer.
 
 ![alt text][leaf]
-[leaf]: https://images.pexels.com/photos/1048033/pexels-photo-1048033.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+<img src="https://images.pexels.com/photos/1048033/pexels-photo-1048033.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
 
 ### Objectifs :
 
