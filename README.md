@@ -1,6 +1,6 @@
 # Je Passe Au Vert
 
-Plate-forme de partage/d'échange de conseils et de bonnes adresses pour améliorer son impact environnemental et sa manière de consommer.
+Une plate-forme de partage/d'échange de conseils et de bonnes adresses en mode pinterest-like pour améliorer son impact environnemental et sa manière de consommer.
 
 <img src="https://images.pexels.com/photos/106150/dewdrop-morning-sun-mirror-blade-of-grass-106150.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
 
@@ -17,9 +17,8 @@ Plate-forme de partage/d'échange de conseils et de bonnes adresses pour amélio
 - Ensuite face au mode de consommation actuelle, arrosé par le plastique et autres produits étranges, il semble bien difficile de pouvoir réduire son impact sur l'environnement. Toutefois il existe des millions d'astuces trouvables sur internet sur ce sujet. Alors pourquoi faire un enième site me direz-vous ? Et bien parce que 90% (chiffre complètement inventé mais qui me semble pas loin de la réalité) de ces astuces se trouvent dispatchées sur des tonnes de site, souvent en mode top 10 sur un blog fixe. Vous cherchez une astuce en particulier ? Préparez vous à devoir vous baladez sur des dizaines de pages et de sites différents pour trouver la bonne ? Vous avec une problématique sur un sujet précis ? Priez pour que le site posséde un espace avec des commentaires et quelqu'un viennent vous répondre dans un délai raisonnable. 
 
 **Ici rien de tout ça**
-
 - Créez un profil, puis recherchez, partagez vos astuces/bonnes adresses simplement (ex: "Fabriquer du shaampoing bio", "Comment créer un potager dans un appartement")
-- Un problémez, une question ? rendez-vous dans l'espace forum pour voir si quelqu'un a une solution à proposer (ex: "Je voudrais faire une lessive maison mais mon enfant est allergique à tel produits, connaissez-vous une alternative ?", "J'ai pas franchement envie de passer aux céréales en vrac dans un sac en tissu pour le petit-déjeuner sans avoir à faire mes viennoiseries tout les matins, quelqu'un connaît une marque plutôt clean et sans emballages ?")
+- Un probléme, une question ? rendez-vous dans l'espace forum pour voir si quelqu'un a une solution à proposer (ex: "Je voudrais faire une lessive maison mais mon enfant est allergique à tel produits, connaissez-vous une alternative ?", "J'ai pas franchement envie de passer aux céréales en vrac dans un sac en tissu pour le petit-déjeuner sans avoir à faire mes viennoiseries tout les matins, quelqu'un connaît une marque plutôt clean et sans emballages ?")
 
 Bref vous voyez le topo. L'idée est de tout centraliser sur un site (beau gosse de préférence), dans un concept proche de Pinterest,  pour ne pas avoir à se taper des recherches googles interminables ou de tomber sur un blog dégueulasse d'une mamie habitant à Mâcon, certes très gentille  mais pas très doué en programmation.
 
@@ -48,14 +47,14 @@ avec une belle liste de cartes et encore un moteur de recherche
 - Un mailer, confirmation d'inscription, renouvellement password, et envoi automatique dès qu'un auteur suivi poste un nouvel article ou adresse, possibilité d'abonnement à une newsletter
 
 **Le visuel**
-
 - Avec les trucs écolos, la charte graphique c'est facile. Tu regardes une forêt tu as trouvé le truc
 - Les couleurs : un vert pâle, un bleu pastel, un marron pastel et des nuance de blanc et de gris. Quelque chose de clair dans tous les cas
 - Les polices : légéres, fines, sûrement légérements courbées, deux seulement (peut-être trois dont une spécialement pour le footer et beaucoup plus classique)
-- Les formes : évidemment rien de carré, mais rien de parfaitement rond non plus cela rend la chose trop enfantine 
+- Les formes : évidemment rien de carré
 - Les visuels : chaque astuce aura sa photo ajoutée par son auteur mais si image il doit y avoir, partir sur des visuels de feuilles, de ciel, matériaux naturels brut, etc.. sachant que la macro à ce niveau rend visuellement beaucoup mieux que des plans larges et fouillis de nature ou autres
 
 **Le champ des possibles**
+- Un système de like serait naturel pour noter les astuces
 - On pourrait imaginer la création d'un e-commerce en ligne pour les personnes souhaitant vendre leurs propres produits et ainsi insérer stripe pour avoir une API en plus (par contre légalement c'est assez flou)
 - On pourrait intégrer un onglet recettes pour rendre le site plus complet mais cela ne constitue vraiment le coeur de l'idée pour le moment
 - Rajouter un feed personnalisé dans chaque page profil selon ses auteurs suivis
